@@ -1,2 +1,2 @@
-# Bootcamp Dio Mobile
+# Bootcamp DIO Mobile
 Desafio de projeto sobre Git/GitHub
